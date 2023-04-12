@@ -1,0 +1,11 @@
+{
+  "name": "tsx-starter",
+  "private": true,
+  "scripts": {
+    "start": "tsx app.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.2",
+    "tsx": "^3.12.1"
+  }
+}
